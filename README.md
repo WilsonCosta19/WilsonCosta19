@@ -13,9 +13,9 @@ tenho como objetivo dominar todos as ferramentas  desenvolver projetos completos
 aplicar meu conhecimento em projetos reais e colaborar com outros desenvolvedores para criar soluções inovadoras. 
 
 
-conecte comigo:
 
-<a href="https://www.linkedin.com/in/wilsoncosta19/>
+
+
   
 
 
