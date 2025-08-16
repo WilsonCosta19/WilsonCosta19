@@ -1,16 +1,22 @@
 ## Hi there 👋
 
-<!--
-**WilsonCosta19/WilsonCosta19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Eu sou Wilson Costa apaxaixonado por tecnoloagia, atualmente estou me especializando em desenvolvimento web, com um foco inicial em front-end, mas com o objetivo de me tornar um programador full-stack
 
-Here are some ideas to get you started:
+atualmente estou aprendendo:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- HTML
+- CSS
+- JavaScrypt
+- React
+
+tenho como objetivo dominar todos as ferramentas  desenvolver projetos completos que sejam eficientes e escaláveis. Estou  confiante para 
+aplicar meu conhecimento em projetos reais e colaborar com outros desenvolvedores para criar soluções inovadoras. 
+
+
+conecte comigo:
+
+<a href="https://www.linkedin.com/in/wilsoncosta19/>
+  
+
+
+
