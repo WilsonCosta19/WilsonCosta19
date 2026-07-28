@@ -7,11 +7,13 @@ Tecnologias que uso:
 - HTML
 - CSS
 - JavaScrypt
+- React
+- Node.js
 - Git & Github
   
 Meus projetos favoritos
 
-Projeto-VPC-Infomatica: (https://vpc-informatica.vercel.app/#inicio ) - desenvolvi do zero um site para uma fictícia empresa de manutenção de computadores, a VPC Informática. Este projeto pessoal me permitiu aplicar e aperfeiçoar minhas habilidades em HTML, CSS e JavaScript.
+Projeto-DevClub: (https://devclub-landing-wine.vercel.app ) - Landing page institucional do **DevClub**, bootcamp brasileiro de programação.
 
 
 tenho como objetivo dominar todos as ferramentas  desenvolver projetos completos que sejam eficientes e escaláveis. Estou  confiante para 
